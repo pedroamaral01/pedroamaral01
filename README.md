@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Eu sou o Pedro Amaral, Desenvolvedor Front-End
+- Eu sou o Pedro Amaral, Desenvolvedor Web
 
 - Cursando Sistemas de Informação.
 
